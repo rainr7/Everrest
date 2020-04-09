@@ -6,6 +6,6 @@ Hatif Muhammad Fawwaz     (4611418052)
 Muhammad Noval Himawan    (4611418056)
 
 
-Hello, ini masih bingung mau pake bahasa apa wkwk
-cara mbuatnya juga masih belum ketemu
-Hello, sudah diskusi menggunakkan bahasa pemrograman Phyton lho
+Helo disini kita menggunakan bahasa phyton
+nama bahasa pemrogaman kami adalah everrest
+dengan nama file .ev
