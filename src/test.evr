@@ -1,2 +1,14 @@
-var age = 20;
-print age;
+cetak "contoh dasar"
+cetak "tekkom adalah"
+!keterangan = "pelajaran yang sangat menyenangkan"
+cetak !keterangan
+cetak "contoh looping"
+untuk 0 sampai 3
+cetak "kami suka tekkom"
+selesai
+cetak "contoh matematika"
+selesai
+cetak "contoh percabangan"
+jika 1<2 maka
+	cetak "menyenangkan"
+kalautidak cetak "salah"
