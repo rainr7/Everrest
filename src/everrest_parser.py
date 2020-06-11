@@ -5,7 +5,7 @@ from interpt import doAssign
 from interpt import doSambung
 from interpt import getInput
 from interpt import getVariabel
-import contstan
+
 num_stack = []
 symbols = {}
 
